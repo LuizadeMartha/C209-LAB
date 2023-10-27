@@ -1,4 +1,0 @@
-detecção de bordas com NumPy
--primeiro passo: converter para escala de cinza, usando metodo average
--depois com a imagem cinza, vamos calcular as derivadas, horizontal e e vertical da imagem e combina-la para aachar as bordas e por fim achar o threshold
--
